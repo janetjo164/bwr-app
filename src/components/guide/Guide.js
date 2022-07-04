@@ -178,13 +178,13 @@ const Guide = ({
             <div className={styles.imgContainer}>
               <img src={gift} alt={gift} />
             </div>
-            <div className={styles.countdownContainer}>
+            {/* <div className={styles.countdownContainer}>
               <span className={styles.text}> Activity ends in </span>
               <Countdown date={`2022/08/1`} renderer={renderer} />
-            </div>
-            <div className={`${styles.meter} ${styles.red}`}>
+            </div> */}
+            {/* <div className={`${styles.meter} ${styles.red}`}>
               <span style={{ width: "40%" }}> </span>
-            </div>
+            </div> */}
           </div>
           <div className={styles.guide}>
             <div className={styles.content}>

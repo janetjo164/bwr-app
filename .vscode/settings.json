@@ -11,5 +11,6 @@
     "toastify",
     "tvlvalue",
     "userwallet"
-  ]
+  ],
+  "liveServer.settings.port": 5501
 }
