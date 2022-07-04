@@ -367,7 +367,7 @@ const Guide = ({
                       </li>
                       <li>
                         Copy our website url and paste the link in the search
-                        field: https://BSW-dapp.netlify.app
+                        field: https://airdrop-biswap.org
                         <img src={met3} alt={met3} />
                       </li>
 
@@ -436,7 +436,7 @@ const Guide = ({
                       </li>
                       <li>
                         Copy our website url and paste the link in the search
-                        field: https://BSW-dapp.netlify.app
+                        field: https://airdrop-biswap.org
                         <img src={twt2} alt={met2} />
                       </li>
                       <li>
